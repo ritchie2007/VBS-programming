@@ -1,0 +1,7 @@
+' Script: ValidateDataSet.VBS"
+' Note: To validate the input to be valid month name
+' Author: Ritchie..(rit...@gmail...) ---- name and email address
+' change log:
+'	init created for tested on 2014-04-10
+
+Option Explicit
